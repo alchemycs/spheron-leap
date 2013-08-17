@@ -1,0 +1,33 @@
+{
+  "name": "spheron-leap",
+  "private":true,
+  "version": "0.0.0",
+  "description": "Quick and dirty example of controlling Sphero using Leap Motion",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael McHugh <developer@yrucalling.me>",
+  "license": "Simplified BSD License",
+  "dependencies": {
+    "leapjs": "~0.2.0",
+    "spheron": "0.0.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "sphero",
+    "spheron",
+    "leap",
+    "motion",
+    "nodebot",
+    "nodebots"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alchemycs/spheron-leap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/alchemycs/spheron-leap/issues"
+  }
+}
