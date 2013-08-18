@@ -28,6 +28,6 @@ Enjoy!
 * Set `device` variable to whatever device Sphero connects to your machine has
 * It's currently oversensitive so multiple gestures might get triggered and result in some wild behaviour!
 * There is a timeout of 2000ms to stop Sphero after each gesture to make sure it doesn't go to crazy
-* Comment out the contents of the timeout code if you are trying it out in water, it's much more fun and Sphero is
+* Set the variable `safeMode = false;` if you are trying it out in water, it's much more fun and Sphero is
 a bit more mellow when in liquid
 
