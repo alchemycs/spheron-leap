@@ -3,7 +3,11 @@
 A teacher at my son's school allowed me to use his Leap Motion over the weekend, I hacked together this quick and
 dirty script to control Sphero using it.
 
-See it in action: <http://www.youtube.com/watch?v=3ratT1yCnow&feature=share&list=UUKZdVrHYWr7rVNKbs9_fXnw>
+**See it in action!**
+
+[![](http://img.youtube.com/vi/3ratT1yCnow/0.jpg)](http://www.youtube.com/watch?v=3ratT1yCnow&feature=share&list=UUKZdVrHYWr7rVNKbs9_fXnw)
+
+
 
 Enjoy!
 
